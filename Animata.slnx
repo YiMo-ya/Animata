@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Animata.vcxproj" Id="66c99755-96f3-40da-92d8-63008c6d6cd8" />
+</Solution>
